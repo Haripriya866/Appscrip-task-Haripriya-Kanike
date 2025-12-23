@@ -1,0 +1,43 @@
+.filters {
+  font-size: 13px;
+}
+
+.filters-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.filter-group {
+  border-top: 1px solid var(--color-border);
+  padding: 12px 0;
+}
+
+.filter-toggle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 13px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.filter-options {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.filter-checkbox,
+.filter-radio {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+}
