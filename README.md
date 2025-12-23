@@ -10,7 +10,7 @@ https://www.figma.com/file/N0Tv7yYLf3kfMLQjUncUlx/Design-Task---PLP?type=design&
 
 ## Demo
 
-Link: 
+Link: https://appscrip-task-haripriya-kanike.vercel.app
 
 ## Tech Stack
 
